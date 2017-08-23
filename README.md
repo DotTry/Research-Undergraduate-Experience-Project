@@ -16,7 +16,7 @@ http://www.sci.utah.edu/~chengu/timeVarying_vfd.htm
 ![7](https://github.com/DotTry/Research-Undergraduate-Experience-Project/blob/master/Progress%20Pictures/streamline.PNG?raw=true)
 
 ### Perlin Noise Texture
-![8]
+![8](https://github.com/DotTry/Research-Undergraduate-Experience-Project/blob/master/Progress%20Pictures/flow.PNG?raw=true)
 
 
 [Drafted Research Paper](https://github.com/DotTry/Research-Undergraduate-Experience-Project/blob/master/Weekly%20Reports/Research%20Paper.docx)
